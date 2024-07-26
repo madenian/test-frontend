@@ -1,3 +1,5 @@
+This is the frontend technical test for Adrien AGARD's application to the position of "JS React/Node Developer - Internship - M/F".
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -30,5 +32,3 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
-
-This is the Frontend Test for the candidature of "Développeur JS React/Node - Stage - H/F" for Adrien AGARD.
